@@ -1,2 +1,3 @@
-# Kickstarter Analysis
-Module 1 of Data Analysis and Visualization Bootcamp creating an analysis of Kickstarter data for Louise
+# An Analysis of Kickstarter Campaigns
+The purpose of this analysis is to help Louise determine the best methods and timing to promote her kickstarter campaign.
+

@@ -8,10 +8,10 @@ The purpose of this analysis is to provide Louise with data insights and visuali
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch.png](https://github.com/mjkleineck/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/mjkleineck/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](https://github.com/mjkleineck/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/mjkleineck/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 The largest challenge was encountered when aggregating and organizing the underlying data table for the graph displaying outcomes based on goals. Errors in the table were first discovered upon double checking the formulas for determining the count of the number of failed campaigns by goal amount. Upon triple checking, it was realized that the data across all subcategories was being displayed, not "plays" only. The formulas were updated to reflect only the "plays" subcategory. Facing these difficulties taught a valuable lesson: to slow down, be more methodical and thorough when creating data tables and graphs from raw data.
